@@ -9,7 +9,6 @@ theme:
   avatar: avatar.png
   gravatar: # Email MD5 hash
   description: "Turning the handle of software delivery" # used by search engines
-  str_continue_reading: "Continue"
 
   # Header and footer text
   header_text: >
